@@ -1,0 +1,5 @@
+scikit-learn==1.5.2
+pandas==2.2.3
+deepchecks==0.18.1
+checklist==0.0.11
+matplotlib==3.8.0
